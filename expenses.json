@@ -1,0 +1,67 @@
+{
+    "E001": {
+        "name": "Lunch",
+        "amount": 500,
+        "category": "Food",
+        "date": "2026-08-01",
+        "description": "Lunch at",
+        "id": "E001"
+    },
+    "E002": {
+        "name": "Bus Ticket",
+        "amount": 2.0,
+        "category": "Transportation",
+        "date": "2026-08-02",
+        "description": "Bus fare for university"
+    },
+    "E003": {
+        "name": "Coffee",
+        "amount": 3.75,
+        "category": "Food",
+        "date": "2026-08-03",
+        "description": "Coffee at a local cafe"
+    },
+    "E005": {
+        "name": "Notebook",
+        "amount": 5.25,
+        "category": "Education",
+        "date": "2026-08-05",
+        "description": "Notebook for research work"
+    },
+    "E006": {
+        "name": "Movie Ticket",
+        "amount": 8.0,
+        "category": "Entertainment",
+        "date": "2026-08-06",
+        "description": "Movie ticket with friends"
+    },
+    "E007": {
+        "name": "Shokal",
+        "amount": 500,
+        "category": "Food",
+        "date": "2026-08-01",
+        "description": "Lunch at restaurant",
+        "id": "E007"
+    },
+    "E008": {
+        "name": "Lunch",
+        "amount": 7.5,
+        "category": "Food",
+        "date": "2026-08-08",
+        "description": "Lunch at university cafeteria"
+    },
+    "E009": {
+        "name": "Taxi",
+        "amount": 12.0,
+        "category": "Transportation",
+        "date": "2026-08-09",
+        "description": "Taxi ride to university"
+    },
+    "E010": {
+        "name": "USB Flash Drive",
+        "amount": 0,
+        "category": "Electronics",
+        "date": "2026-08-10",
+        "description": "USB drive for storing research files"
+    }
+}
